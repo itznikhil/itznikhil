@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Ecommerce App](github.com/itznikhil/e-commerce)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on [Ecommerce App](github.com/itznikhil/e-commerce)
 

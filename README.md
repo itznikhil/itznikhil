@@ -33,15 +33,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nikhilg20623896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="nikhilg20623896" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15974298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="15974298" height="30" width="40" /></a>
-<a href="https://fb.com/co.nikhil.garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="co.nikhil.garg" height="30" width="40" /></a>
-<a href="https://instagram.com/__nikhil_garg__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="__nikhil_garg__" height="30" width="40" /></a>
-<a href="https://medium.com/@nikhilgarg983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@nikhilgarg983" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nikhil garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="nikhil garg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nikhilgargcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="nikhilgargcoder" height="30" width="40" /></a>
-<a href="https://discord.gg/F4NDGZQd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="F4NDGZQd" height="30" width="40" /></a>
-<a href="/https://codewithnikhil.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt="https://codewithnikhil.in" height="30" width="40" /></a>
+<a href="https://twitter.com/nikhilg20623896" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="nikhilg20623896" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15974298" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15974298" height="30" width="40" /></a>
+<a href="https://fb.com/co.nikhil.garg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="co.nikhil.garg" height="30" width="40" /></a>
+<a href="https://instagram.com/__nikhil_garg__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__nikhil_garg__" height="30" width="40" /></a>
+<a href="https://medium.com/@nikhilgarg983" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" alt="@nikhilgarg983" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/nikhil garg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" alt="nikhil garg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nikhilgargcoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="nikhilgargcoder" height="30" width="40" /></a>
+<a href="https://discord.gg/F4NDGZQd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="F4NDGZQd" height="30" width="40" /></a>
+<a href="/https://codewithnikhil.in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/rss.svg" alt="https://codewithnikhil.in" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
